@@ -35,15 +35,16 @@ h2 {
 }
 
 button {
-  padding: 15px 25px;
+  padding: 10px 20px;
   border: 0;
-  font-size: 2em;
+  font-size: 1.3em;
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 30px;
   letter-spacing: 2px;
   background: linear-gradient(to right, #0052d4, #65c7f7, #9cecfb);
   transition: transform 0.4s ease-in-out;
+  margin-left: 20px;
 }
 
 button:focus {
@@ -52,6 +53,9 @@ button:focus {
 button:hover {
   cursor: pointer;
   transform: scale(0.95);
+}
+.buttons {
+  justify-content: space-between;
 }
 
 /* Utility classes */
