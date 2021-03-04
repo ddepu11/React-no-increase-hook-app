@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-no-increase-hook-app/static/css/main.d5b3ad3b.chunk.css",
+    "main.js": "/React-no-increase-hook-app/static/js/main.b083e5c4.chunk.js",
+    "main.js.map": "/React-no-increase-hook-app/static/js/main.b083e5c4.chunk.js.map",
+    "runtime-main.js": "/React-no-increase-hook-app/static/js/runtime-main.47c1cc90.js",
+    "runtime-main.js.map": "/React-no-increase-hook-app/static/js/runtime-main.47c1cc90.js.map",
+    "static/js/2.ced1f739.chunk.js": "/React-no-increase-hook-app/static/js/2.ced1f739.chunk.js",
+    "static/js/2.ced1f739.chunk.js.map": "/React-no-increase-hook-app/static/js/2.ced1f739.chunk.js.map",
+    "index.html": "/React-no-increase-hook-app/index.html",
+    "static/css/main.d5b3ad3b.chunk.css.map": "/React-no-increase-hook-app/static/css/main.d5b3ad3b.chunk.css.map",
+    "static/js/2.ced1f739.chunk.js.LICENSE.txt": "/React-no-increase-hook-app/static/js/2.ced1f739.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47c1cc90.js",
+    "static/js/2.ced1f739.chunk.js",
+    "static/css/main.d5b3ad3b.chunk.css",
+    "static/js/main.b083e5c4.chunk.js"
+  ]
+}
